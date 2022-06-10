@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pmAdriaan
+- 👋 Hi, I’m Adriaan
 - 👀 I’m interested in HTML, CSS, JavaScript, PHP
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript and PHP projects
